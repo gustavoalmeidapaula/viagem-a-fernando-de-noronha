@@ -1,0 +1,22 @@
+h1{
+    color: white;
+    background-color: #008000;
+    border: 5px solid #005E19;
+    border-radius: 10px;
+}
+
+img{
+    border-style: double;
+    border-radius: 10px;
+}
+
+h2{
+    background-color: #FFA600;
+    border: 5px solid #855B0F;
+    border-radius: 10px;
+}
+
+h3{
+    font-size: 30px;
+    color: blue;
+}
